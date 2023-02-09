@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miroslavhasak&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavhasak" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Miroslavhasak](https://github.com/Miroslavhasak)
 
