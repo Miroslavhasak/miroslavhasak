@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miroslav hasák" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miroslav hasák" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miroslav-hasák-63378b21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miroslav hasák" height="30" width="40" /></a>
 <a href="mailto:miro.hasak@gmail.com" target="blank"><img align="center" src="https://logodix.com/logo/877390.png" height="30" width="40" /></a>
 </p>
 
