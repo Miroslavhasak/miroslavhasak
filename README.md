@@ -6,14 +6,14 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at (https://github.com/Miroslavhasak)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Miroslavhasak" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="miroslav hasák" height="30" width="40" /></a>
 
 - 📫 How to reach me **miro.hasak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miroslav hasák" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miroslav hasák" height="30" width="40" /></a>
-<a href="mailto:miro.hasak@gmail.com" target="blank"><img align="center" src="https://duckduckgo.com/?q=gmail+icon+link&t=opera&iax=images&ia=images&iai=https%3A%2F%2Flogodix.com%2Flogo%2F877390.png" height="30" width="40" /></a>
+<a href="mailto:miro.hasak@gmail.com" target="blank"><img align="center" src="https://logodix.com/logo/877390.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
