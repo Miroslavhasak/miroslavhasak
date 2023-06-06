@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miroslav</h1>
-<h3 align="center">A beginner developer</h3>
+<h3 align="center">A beginner junior developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miroslavhasak&label=Profile%20views&color=0e75b6&style=flat" alt="miroslavhasak" /> </p>
@@ -15,9 +15,11 @@
 <a href="https://linkedin.com/in/miroslav hasák" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miroslav hasák" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">### :hammer_and_wrench: Languages and Tools :</h3>
+<h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a> </p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miroslavhasak&show_icons=true&locale=en&layout=compact" alt="miroslavhasak" /></p>
 
