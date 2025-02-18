@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Miroslavhasak" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="miroslav hasák" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at GitHub <a href="https://github.com/Miroslavhasak" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="miroslav hasák" height="30" width="40" /></a>
 
 - 📫 How to reach me **miro.hasak@gmail.com**
 
